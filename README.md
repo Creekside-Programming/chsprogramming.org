@@ -1,2 +1,2 @@
 # chsprogramming.org
-This is the source code for the website at https://chsprogramming.org. Currently, it is a bogus non-profit website thrown together in 5 minutes in the hopes that it will be indexed by Google.
+This is the source code for the website at https://chsprogramming.org.
